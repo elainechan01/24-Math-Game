@@ -115,4 +115,3 @@ def main():
             recursive = False
 
 
-print(round(15, 5))

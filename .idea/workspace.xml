@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d77536b-d517-423e-990a-ffb3132eabb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/24_rosettacode.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_rosettacode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +94,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="623" y="10" key="CommitChangelistDialog2" timestamp="1601019370188">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="623" y="10" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1601019370188" />
     <state x="653" y="197" key="FileChooserDialogImpl" timestamp="1601007594771">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -118,6 +122,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="374" y="87" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1601003910207" />
+    <state x="828" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601019693964">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="828" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1601019693964" />
     <state x="681" y="192" width="672" height="678" key="search.everywhere.popup" timestamp="1601003810918">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
