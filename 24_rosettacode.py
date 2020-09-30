@@ -3,8 +3,12 @@ from operator import mul, sub, add
 
 def div(a, b):              
     try:
-        x = a / b
-        return x
+        x = a/b
+        if isinstance(x, float):
+            x = ZeroDivisionError
+        else:
+            x = int(x)
+            return x
     except ZeroDivisionError:
         pass
 
@@ -114,4 +118,4 @@ def main():
         else:
             recursive = False
 
-
+main()
